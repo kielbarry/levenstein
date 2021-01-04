@@ -1,3 +1,7 @@
+After installing javascript and golang dependencies, run "npm run build && go run main.go". App is hosted on port 8000 ("127.0.0.1:8000")
+(
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
